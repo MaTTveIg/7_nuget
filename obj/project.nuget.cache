@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5PiFJrWsPakt0tEiN5yWxsk/37oDAy7ShBB26D4aIbvh0Ni1SY8BGeVE11EiFPyXQUNd1mSripafNw7eGnKBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matve\\OneDrive\\Рабочий стол\\project\\7_nuget\\7_nuget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matve\\.nuget\\packages\\jetbrains.annotations\\11.1.0\\jetbrains.annotations.11.1.0.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\matve\\.nuget\\packages\\truecolorconsole\\1.0.2\\truecolorconsole.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
